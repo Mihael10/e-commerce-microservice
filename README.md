@@ -1,5 +1,5 @@
 # e-commerce-microservice
-Poject Status: In Progress...
+Project Status: In Progress...
 
 # Description:
 
