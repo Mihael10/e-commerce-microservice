@@ -14,7 +14,7 @@ NOTE: In every service will be included README.md file, for describing what ever
 2. JDK 17
 3. PostgreSQL (Different databases for every service)
 4. Postman
-5. Axon Framwork (For handeling the events)
+5. Axon Framework (For handeling the events)
 6. Spring Framework
 7. Docker
 8. AWS
